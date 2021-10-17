@@ -1,5 +1,5 @@
 // const socket = io('http://localhost:8000');
-const socket = io('https://silly-montalcini-7eb8a9.netlify.app/');
+const socket = io('https://silly-montalcini-7eb8a9.netlify.app');
 
 const form = document.getElementById('send-container');
 const messageInput = document.getElementById('messageInp');
