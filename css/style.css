@@ -1,6 +1,7 @@
 body{
     height:100vh;
-    background-image: linear-gradient(rgb(148, 155, 247),purple);
+    /* background-image: linear-gradient(rgb(148, 155, 247),purple); */
+    background-color: rgb(135, 206, 235);
 }
 .logo{
     display: block;
